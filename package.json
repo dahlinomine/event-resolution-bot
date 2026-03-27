@@ -1,0 +1,14 @@
+{
+  "name": "event-resolution-bot",
+  "version": "0.1.0",
+  "description": "Automated system for resolving markets based on verified APIs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
